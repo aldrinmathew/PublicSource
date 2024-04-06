@@ -77,21 +77,12 @@ is recommended, but not compulsory.
 --------- EXCEPTIONS ---------
 
 This project does not explicitly mention any files/materials
-are licensed differently. You can assess the source code to
-find parts that could be licensed differently.
+that are licensed differently. You can assess the source code
+to find parts that could be licensed differently.
 
 ```
 
 ## Philosophy
 
-The real world interpretation of open source is flawed, as it
-is often meant to be "Free and Open Source" instead of just
-"Open Source". And because of that, this licence is not
-compatible with the definition of Open Source by the Open
-Source Initiative (OSI). Instead this licence follows the true
-meaning of "open" source, allowing the source to be viewed and
-distributed by the public free of cost. However, advertising
-that this licence promotes "open" source can lead to ambiguity
-and confusion as there is another interpretation of the
-concept known to the public.
+The real world interpretation of open source is flawed, as it is often meant to be "Free and Open Source" instead of just "Open Source". And because of that, this licence is not compatible with the definition of Open Source by the Open Source Initiative (OSI). Instead this licence follows the true meaning of "open" source, allowing the source to be viewed and distributed by the public free of cost. However, advertising that this licence promotes "open" source can lead to ambiguity and confusion as there is another interpretation of the concept known to the public.
 
