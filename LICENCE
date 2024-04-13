@@ -1,4 +1,4 @@
-<PROJECT> : Copyright <LICENSING YEAR> - <CURRENT YEAR> : <AUTHOR(S)>
+<PROJECT> : Copyright (c) <LICENSING YEARS> : <AUTHOR(S)>
 
 PUBLIC SOURCE LICENCE - 1.0
 
@@ -72,7 +72,7 @@ This project is licensed under the Public Source Licence 1.0
   such contributions, you agree that such ownership is still
   in the hands of the primary authors.
 
-- The sections names EXCEPTIONS, PHILOSOPHY and DEFINITIONS may
+- The sections named EXCEPTIONS, PHILOSOPHY and DEFINITIONS may
   be provided below, however they are not compulsory for the
   licence to be valid for the project. But any part of the
   licence other than these sections are required to be present
